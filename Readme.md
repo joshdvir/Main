@@ -47,3 +47,4 @@ ftp-upload -h dafang.local -u root --password ismart12 -d /system/sdcard/bin/ yo
 - https://github.com/dim08/Ingenic-T10_20
 - https://github.com/beihuijie/carrier-rtsp-server
 - https://github.com/beihuijie/Ingenic-kernel
+
